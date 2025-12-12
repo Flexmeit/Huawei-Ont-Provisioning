@@ -1,4 +1,4 @@
-# 🚀 GPON Provisioning Automation Solution Brief
+# 🚀 Huawei GPON Provisioning Automation Solution Brief
 ## OLT Zero-Touch Service Provisioning
 
 **Telekommunikasiya Operatorları üçün Sürətli, Səhvsiz və Avtomatlaşdırılmış ONT Qoşulma Həlli.**
