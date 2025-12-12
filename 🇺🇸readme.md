@@ -60,6 +60,6 @@ This solution is designed to meet enterprise-grade network requirements:
 
 To integrate this highly efficient GPON automation solution into your network or to inquire about customization options:
 
-**Telegram:** @babaefhv7
+**Telegram:** https://telegram.me/apeiron9
 
 **Contact us today to automate your operational workload and cut subscriber connection time down to seconds.**
