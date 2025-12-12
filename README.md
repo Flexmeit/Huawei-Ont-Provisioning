@@ -60,6 +60,6 @@ Bu həll, böyük miqyaslı operator şəbəkələri üçün nəzərdə tutulmu�
 
 Bu yüksək səmərəli avtomatlaşdırma həllindən istifadə etmək, şəbəkənizə inteqrasiya etmək və ya xüsusi tələblərinizə uyğun fərdiləşdirmə haqqında əlavə məlumat əldə etmək üçün, zəhmət olmasa birbaşa əlaqə saxlayın:
 
-**Telegram:** @babaefhv7
+**Telegram:** https://telegram.me/apeiron9
 
 **Bu gün əməliyyat yükünüzü avtomatlaşdırın və abunəçi qoşulma sürətinizi saniyələr səviyyəsinə endirin.**
